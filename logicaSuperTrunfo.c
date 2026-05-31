@@ -6,9 +6,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-   #include <stdio.h>
-
-int main() {
+  
     // Área para definição das variáveis
     char estado1, estado2;
     char codigo1[4], codigo2[4];
@@ -105,7 +103,7 @@ int main() {
     printf("PIB per Capita: %.2f reais\n\n", pib_capita2);
 
     // Área de resultados
-    printf("RESULTADOS!!\n")
+    printf("RESULTADOS!!\n");
     if (populacao1 > populacao2)
         printf("Populacao: Carta 1 ganhou\n");
     else
